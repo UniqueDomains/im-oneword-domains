@@ -22,8 +22,8 @@ If you want to search & filters the complete database of [.IM one word domains](
 | Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | a.im          | premium   | 77       | 36%    | 3      |           |         |         |
-| aaa.im        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.im      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.im        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.im      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.im  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.im      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.im  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.IM one word domains](
 | abatic.im     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.im    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.im   | premium   | 50       | 1%     | 8      |           |         |         |
-| abc.im        | available | 102      | 41%    | 3      |           |         |         |
+| abc.im        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.im  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.im  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.im | available | 56       | 1%     | 10     |           |         |         |
