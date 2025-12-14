@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.IM one word domains](
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| a.im          | premium   | 77       | 32%    | 3      |           |         |         |
+| a.im          | premium   | 77       | 31%    | 3      |           |         |         |
 | aaa.im        | premium   | 70       | 35%    | 3      |           |         |         |
 | aaron.im      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.im  | available | 50       | 1%     | 9      |           |         |         |
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [.IM one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
