@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .im one-word domains from Unique D
 
 **Public extract:** 9,982 rows · **Live catalog:** 9,982 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/im`  
 **Best for:** founders, investors, studios
 
@@ -70,9 +70,9 @@ print(df.head())
 | key.im        | premium   | —         | —             | 80             | 100    | 3      | —         |
 | remedial.im   | available | $12.98    | —             | 86             | 24     | 8      | namecheap |
 | central.im    | premium   | —         | —             | 70             | 100    | 7      | —         |
-| centre.im     | available | $12.98    | —             | 66             | 21     | 6      | namecheap |
+| defend.im     | available | $12.98    | —             | 76             | 20     | 6      | namecheap |
 | bad.im        | premium   | —         | —             | 142            | 99     | 3      | —         |
-| defend.im     | available | $12.98    | —             | 76             | 19     | 6      | namecheap |
+| centre.im     | available | $12.98    | —             | 66             | 20     | 6      | namecheap |
 | clean.im      | premium   | —         | —             | 130            | 99     | 5      | —         |
 | nail.im       | available | $12.98    | —             | 62             | 19     | 4      | namecheap |
 | gay.im        | premium   | —         | —             | 122            | 99     | 3      | —         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
