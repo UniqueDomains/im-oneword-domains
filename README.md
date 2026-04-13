@@ -74,9 +74,9 @@ print(df.head())
 | bad.im        | premium   | —         | —             | 142            | 99     | 3      | —         |
 | centre.im     | available | $12.98    | —             | 66             | 20     | 6      | namecheap |
 | clean.im      | premium   | —         | —             | 130            | 99     | 5      | —         |
-| nail.im       | available | $12.98    | —             | 62             | 19     | 4      | namecheap |
+| coordinate.im | available | $12.98    | —             | 108            | 19     | 10     | namecheap |
 | gay.im        | premium   | —         | —             | 122            | 99     | 3      | —         |
-| coordinate.im | available | $12.98    | —             | 108            | 18     | 10     | namecheap |
+| nail.im       | available | $12.98    | —             | 62             | 19     | 4      | namecheap |
 | calm.im       | premium   | —         | —             | 118            | 99     | 4      | —         |
 | dummy.im      | available | $12.98    | —             | 88             | 18     | 5      | namecheap |
 | weather.im    | premium   | —         | —             | 118            | 99     | 7      | —         |
