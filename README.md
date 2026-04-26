@@ -1,22 +1,22 @@
-# Available .IM One-Word Domains (9,982)
+# Available .IM One-Word Domains (12,047)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C982%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C982%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C047%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .im one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .im one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,047 domains** on the canonical page below.
 
-**Public extract:** 9,982 rows · **Live catalog:** 9,982 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,047 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/im`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .IM one-word domain ca
 
 ### Files
 
-- `im.csv` — public CSV extract (9,982 rows)
-- `im.json` — public JSON extract (9,982 rows)
+- `im.csv` — public CSV extract (1,000 rows)
+- `im.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| nationwide.im | available | $12.98    | —             | 76             | 66     | 10     | namecheap |
-| secret.im     | premium   | —         | —             | 112            | 100    | 6      | —         |
-| seventeen.im  | available | $12.98    | —             | 84             | 62     | 9      | namecheap |
-| key.im        | premium   | —         | —             | 80             | 100    | 3      | —         |
-| remedial.im   | available | $12.98    | —             | 86             | 24     | 8      | namecheap |
-| central.im    | premium   | —         | —             | 70             | 100    | 7      | —         |
-| defend.im     | available | $12.98    | —             | 76             | 20     | 6      | namecheap |
-| bad.im        | premium   | —         | —             | 142            | 99     | 3      | —         |
-| centre.im     | available | $12.98    | —             | 66             | 20     | 6      | namecheap |
-| clean.im      | premium   | —         | —             | 130            | 99     | 5      | —         |
-| coordinate.im | available | $12.98    | —             | 108            | 19     | 10     | namecheap |
-| gay.im        | premium   | —         | —             | 122            | 99     | 3      | —         |
-| nail.im       | available | $12.98    | —             | 62             | 19     | 4      | namecheap |
-| calm.im       | premium   | —         | —             | 118            | 99     | 4      | —         |
-| dummy.im      | available | $12.98    | —             | 88             | 18     | 5      | namecheap |
-| weather.im    | premium   | —         | —             | 118            | 99     | 7      | —         |
-| hundred.im    | available | $12.98    | —             | 88             | 18     | 7      | namecheap |
-| color.im      | premium   | —         | —             | 116            | 99     | 5      | —         |
-| genial.im     | available | $12.98    | —             | 80             | 18     | 6      | namecheap |
-| yellow.im     | premium   | —         | —             | 116            | 99     | 6      | —         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| veterans.im     | available | $12.98    | —             | 56             | 23     | 8      | namecheap |
+| CapeCod.im      | available | $12.98    | —             | 78             | 22     | 8      | namecheap |
+| Mikey.im        | available | $12.98    | —             | 70             | 21     | 5      | namecheap |
+| likes.im        | available | $12.98    | —             | 52             | 20     | 5      | namecheap |
+| stronger.im     | available | $12.98    | —             | 67             | 19     | 8      | namecheap |
+| lostandfound.im | available | $12.98    | —             | 64             | 19     | 14     | namecheap |
+| citizens.im     | available | $12.98    | —             | 60             | 19     | 8      | namecheap |
+| deeper.im       | available | $12.98    | —             | 56             | 19     | 6      | namecheap |
+| ratings.im      | available | $12.98    | —             | 53             | 19     | 7      | namecheap |
+| tabs.im         | available | $12.98    | —             | 46             | 19     | 4      | namecheap |
+| videogames.im   | available | $12.98    | —             | 66             | 18     | 11     | namecheap |
+| thoughts.im     | available | $12.98    | —             | 65             | 18     | 8      | namecheap |
+| nails.im        | available | $12.98    | —             | 62             | 18     | 5      | namecheap |
+| dont.im         | available | $12.98    | —             | 42             | 18     | 4      | namecheap |
+| ladies.im       | available | $12.98    | —             | 80             | 17     | 6      | namecheap |
+| fruits.im       | available | $12.98    | —             | 74             | 17     | 6      | namecheap |
+| jetlag.im       | available | $12.98    | —             | 72             | 17     | 7      | namecheap |
+| highend.im      | available | $12.98    | —             | 72             | 17     | 8      | namecheap |
+| Automobiles.im  | available | $12.98    | —             | 62             | 17     | 11     | namecheap |
+| reservations.im | available | $12.98    | —             | 50             | 17     | 12     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,982-row public sample | 9,982 live domains                               |
+| 1,000-row public sample | 12,047 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
