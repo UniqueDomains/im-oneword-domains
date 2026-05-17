@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .im one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,529 domains · **Median ask:** $12.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/im`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Acup.im     | available | $12.98    | —             | 80             | 5      | 5      | namecheap |
 | barup.im    | available | $12.98    | —             | 82             | 2      | 6      | namecheap |
 | forces.im   | available | $12.98    | —             | 82             | 12     | 6      | namecheap |
-| getup.im    | available | $12.98    | —             | 82             | 14     | 6      | namecheap |
+| getup.im    | available | $12.98    | —             | 82             | 15     | 6      | namecheap |
 | Apples.im   | available | $12.98    | —             | 90             | 16     | 6      | namecheap |
 | dogsit.im   | available | $12.98    | —             | 96             | 2      | 6      | namecheap |
 | edamame.im  | available | $12.98    | —             | 80             | 9      | 7      | namecheap |
@@ -76,7 +76,7 @@ print(df.head())
 | leaveon.im  | available | $12.98    | —             | 80             | 1      | 8      | namecheap |
 | FabFour.im  | available | $12.98    | —             | 82             | 3      | 8      | namecheap |
 | headout.im  | available | $12.98    | —             | 82             | 6      | 8      | namecheap |
-| surebet.im  | available | $12.98    | —             | 82             | 8      | 8      | namecheap |
+| surebet.im  | available | $12.98    | —             | 82             | 7      | 8      | namecheap |
 | beawake.im  | available | $12.98    | —             | 84             | 3      | 8      | namecheap |
 | chaitea.im  | available | $12.98    | —             | 86             | 3      | 8      | namecheap |
 | veterans.im | available | $12.98    | —             | 56             | 23     | 8      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
