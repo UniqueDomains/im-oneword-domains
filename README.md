@@ -1,10 +1,10 @@
-# Available .IM One-Word Domains (12,529)
+# Available .IM One-Word Domains (12,531)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C529%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C531%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .im one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,529 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,531 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,529 domains · **Median ask:** $12.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,531 domains · **Median ask:** $12.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/im`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/im`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IM one-word domain ca
 
 ### Files
 
-- `im.csv` — public CSV extract (1,000 rows)
-- `im.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `im.csv`, public CSV extract (1,000 rows)
+- `im.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.im     | available | $12.98    | —             | 80             | 5      | 5      | namecheap |
-| barup.im    | available | $12.98    | —             | 82             | 2      | 6      | namecheap |
-| forces.im   | available | $12.98    | —             | 82             | 12     | 6      | namecheap |
-| getup.im    | available | $12.98    | —             | 82             | 15     | 6      | namecheap |
-| Apples.im   | available | $12.98    | —             | 90             | 16     | 6      | namecheap |
-| dogsit.im   | available | $12.98    | —             | 96             | 2      | 6      | namecheap |
-| edamame.im  | available | $12.98    | —             | 80             | 9      | 7      | namecheap |
-| hangon.im   | available | $12.98    | —             | 82             | 6      | 7      | namecheap |
-| dogsick.im  | available | $12.98    | —             | 90             | 1      | 7      | namecheap |
-| leaveon.im  | available | $12.98    | —             | 80             | 1      | 8      | namecheap |
-| FabFour.im  | available | $12.98    | —             | 82             | 3      | 8      | namecheap |
-| headout.im  | available | $12.98    | —             | 82             | 6      | 8      | namecheap |
-| surebet.im  | available | $12.98    | —             | 82             | 7      | 8      | namecheap |
-| beawake.im  | available | $12.98    | —             | 84             | 3      | 8      | namecheap |
-| chaitea.im  | available | $12.98    | —             | 86             | 3      | 8      | namecheap |
-| veterans.im | available | $12.98    | —             | 56             | 23     | 8      | namecheap |
-| CapeCod.im  | available | $12.98    | —             | 78             | 22     | 8      | namecheap |
-| Mikey.im    | available | $12.98    | —             | 70             | 21     | 5      | namecheap |
-| Tshirts.im  | available | $12.98    | —             | 70             | 20     | 8      | namecheap |
-| smartest.im | available | $12.98    | —             | 64             | 20     | 8      | namecheap |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.im  | available | —         | —             | high           | low    | 4      | —         |
+| just.im  | available | —         | —             | high           | medium | 4      | —         |
+| acre.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| avon.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| bars.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| bath.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| chop.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| flew.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| harm.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| mere.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| onto.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| rang.im  | available | $12.98    | —             | low            | low    | 4      | namecheap |
+| redo.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| weak.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| yawn.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| bowls.im | available | $12.98    | —             | medium         | low    | 5      | namecheap |
+| costs.im | available | $12.98    | —             | high           | low    | 5      | namecheap |
+| facts.im | available | $12.98    | —             | high           | low    | 5      | namecheap |
+| forth.im | available | $12.98    | —             | high           | low    | 5      | namecheap |
+| least.im | available | $12.98    | —             | high           | low    | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,529 live domains                        |
+| 1,000-row public sample | 12,531 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused on one-word .im domains. The strongest candidates are the ones that stay clear when spoken, look clean in lowercase, and feel natural with the .im ending. In this selection, examples such as Acup.im, jewels.im, getup.im, and dogsit.im show a mix of dictionary words, action phrases, and brandable constructions. When comparing these domains, start with word quality and recall, then check ask price against alternatives in the same style. For founders, the goal is a name you can own with confidence. For investors, the edge is usually in simple words that are easy to understand and easy to resell.
+This list covers one-word and short-phrase domain names using the .im extension, ranging from everyday phrases like shoparound.im and windowshop.im to punchy single words such as Apples.im and jewels.im. With 12,531 domains tracked and a median asking price near $12.90, this .im selection spans a wide price range suited to both budget-conscious founders and domain investors comparing options across a single ccTLD. Updated daily, it reflects current asking prices for direct comparison.
 
-- Prioritize words that read naturally with the .im ending
-- Favor clear spelling and strong recall over cleverness
-- Use the 12.97 median ask as a rough price anchor
-- Compare plural, verb, and niche-word usage carefully
+- 12,531 one-word .im domains tracked, updated daily.
+- Median asking price near $12.90 across this selection.
+- Includes brandable picks like Apples.im and QandA.im.
+- Compare spelling, length, and renewal cost before buying.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
