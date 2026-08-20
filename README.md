@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .im one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,613 domains · **Median ask:** $9.11 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/im`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| sob.im   | available | $4.98     | $12.98        | low            | low    | 3      | namecheap |
-| acre.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
-| avon.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| bars.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| bath.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| chop.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
-| cxxx.im  | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
-| flew.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| harm.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| lxxi.im  | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
-| lxxv.im  | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
-| mere.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
-| onto.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| rang.im  | available | $12.98    | —             | low            | low    | 4      | namecheap |
-| redo.im  | available | $12.98    | —             | high           | low    | 4      | namecheap |
-| rump.im  | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
-| weak.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
-| yawn.im  | available | $12.98    | —             | medium         | low    | 4      | namecheap |
-| acrid.im | available | $4.98     | $12.98        | low            | low    | 5      | namecheap |
-| aleut.im | available | $4.98     | $12.98        | low            | low    | 5      | namecheap |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.im | available | —         | —             | high           | low    | 4      | —         |
+| just.im | available | —         | —             | high           | medium | 4      | —         |
+| sob.im  | available | $4.98     | $12.98        | low            | low    | 3      | namecheap |
+| acre.im | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| avon.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| bars.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| bath.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| chop.im | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| cxxx.im | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
+| flew.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| harm.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| lxxi.im | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
+| lxxv.im | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
+| mere.im | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| onto.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| rang.im | available | $12.98    | —             | low            | low    | 4      | namecheap |
+| redo.im | available | $12.98    | —             | high           | low    | 4      | namecheap |
+| rump.im | available | $4.98     | $12.98        | low            | low    | 4      | namecheap |
+| weak.im | available | $12.98    | —             | medium         | low    | 4      | namecheap |
+| yawn.im | available | $12.98    | —             | medium         | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
