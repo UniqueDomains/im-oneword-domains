@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .im one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,208 domains · **Median ask:** $8.36 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/im`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,6 @@ print(df.head())
 | correct.im | available | —         | —             | high           | low    | 7      | —         |
 | come.im    | available | —         | —             | high           | low    | 4      | —         |
 | yes.im     | available | —         | —             | high           | low    | 3      | —         |
-| pure.im    | available | —         | —             | high           | low    | 4      | —         |
 | sob.im     | available | $4.98     | $12.98        | low            | low    | 3      | namecheap |
 | acre.im    | available | $12.98    | —             | medium         | low    | 4      | namecheap |
 | avon.im    | available | $12.98    | —             | high           | low    | 4      | namecheap |
@@ -84,6 +83,7 @@ print(df.head())
 | mere.im    | available | $12.98    | —             | medium         | low    | 4      | namecheap |
 | onto.im    | available | $12.98    | —             | high           | low    | 4      | namecheap |
 | rang.im    | available | $12.98    | —             | low            | low    | 4      | namecheap |
+| redo.im    | available | $12.98    | —             | high           | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
