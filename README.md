@@ -1,10 +1,10 @@
-# Available .IM One-Word Domains (18,699)
+# Available .IM One-Word Domains (18,843)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C699%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C843%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .im one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,699 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,843 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,699 domains · **Median ask:** $5.93 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 18,843 domains · **Median ask:** $5.91 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/im`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| australian.im | available | $4.98     | $12.98        | high           | low    | 10     | namecheap |
-| wish.im       | resell    | —         | —             | high           | low    | 4      | —         |
-| proficient.im | available | $4.98     | $12.98        | high           | low    | 10     | namecheap |
-| port.im       | resell    | —         | —             | high           | low    | 4      | —         |
-| snitch.im     | available | $4.98     | $12.98        | high           | high   | 6      | namecheap |
-| manage.im     | available | —         | —             | high           | medium | 6      | —         |
-| artistry.im   | available | —         | —             | high           | medium | 8      | —         |
-| referenced.im | available | $4.98     | $12.98        | high           | medium | 10     | namecheap |
-| uuq.im        | available | $4.98     | $12.98        | medium         | low    | 3      | namecheap |
-| ltd.im        | resell    | —         | —             | high           | low    | 3      | —         |
-| ably.im       | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| phd.im        | resell    | —         | —             | high           | low    | 3      | —         |
-| adit.im       | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| mind.im       | resell    | —         | —             | high           | medium | 4      | —         |
-| adps.im       | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| alep.im       | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| rich.im       | resell    | —         | —             | high           | low    | 4      | —         |
-| ames.im       | available | $4.98     | $12.98        | high           | low    | 4      | namecheap |
-| amyl.im       | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| books.im      | resell    | —         | —             | high           | medium | 5      | —         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| uuq.im     | available | $4.98     | $12.98        | medium         | low    | 3      | namecheap |
+| ltd.im     | resell    | —         | —             | high           | low    | 3      | —         |
+| ably.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| phd.im     | resell    | —         | —             | high           | low    | 3      | —         |
+| adit.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| mind.im    | resell    | —         | —             | high           | medium | 4      | —         |
+| adps.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| port.im    | resell    | —         | —             | high           | low    | 4      | —         |
+| alep.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| rich.im    | resell    | —         | —             | high           | low    | 4      | —         |
+| ames.im    | available | $4.98     | $12.98        | high           | low    | 4      | namecheap |
+| wish.im    | resell    | —         | —             | high           | low    | 4      | —         |
+| amyl.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| books.im   | resell    | —         | —             | high           | medium | 5      | —         |
+| aril.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| draft.im   | resell    | —         | —             | high           | low    | 5      | —         |
+| auld.im    | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
+| lover.im   | resell    | —         | —             | high           | low    | 5      | —         |
+| blew.im    | available | $4.98     | $12.98        | high           | low    | 4      | namecheap |
+| amazing.im | resell    | —         | —             | high           | low    | 7      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,699 live domains                        |
+| 1,000-row public sample | 18,843 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 25 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
