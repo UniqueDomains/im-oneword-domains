@@ -1,10 +1,10 @@
-# Available .IM One-Word Domains (23,748)
+# Available .IM One-Word Domains (25,360)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C748%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C360%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .im one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,748 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,360 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,748 domains · **Median ask:** $5.27 · **High-demand under $2,500:** 45
+**Public extract:** 1,000 rows · **Live catalog:** 25,360 domains · **Median ask:** $5.20 · **High-demand under $2,500:** 49
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/im`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | cwa.im   | available | $7.95     | $9.28         | medium         | low    | 3      | dynadot   |
-| ltd.im   | resell    | —         | —             | high           | low    | 3      | —         |
+| anz.im   | resell    | —         | —             | high           | medium | 3      | —         |
 | ably.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| phd.im   | resell    | —         | —             | high           | low    | 3      | —         |
+| ltd.im   | resell    | —         | —             | high           | low    | 3      | —         |
 | adit.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| cctv.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| phd.im   | resell    | —         | —             | high           | low    | 3      | —         |
 | alep.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| euro.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| cctv.im  | resell    | —         | —             | high           | low    | 4      | —         |
 | alla.im  | available | $4.18     | $6.73         | high           | low    | 4      | spaceship |
-| lock.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| euro.im  | resell    | —         | —             | high           | low    | 4      | —         |
 | amyl.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| mall.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| lock.im  | resell    | —         | —             | high           | low    | 4      | —         |
 | aril.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| rich.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| mall.im  | resell    | —         | —             | high           | low    | 4      | —         |
 | astm.im  | available | $4.18     | $6.73         | medium         | low    | 4      | spaceship |
-| wish.im  | resell    | —         | —             | high           | low    | 4      | —         |
-| auld.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| books.im | resell    | —         | —             | high           | medium | 5      | —         |
+| mart.im  | resell    | —         | —             | high           | low    | 4      | —         |
 | blew.im  | available | $4.98     | $12.98        | medium         | low    | 4      | namecheap |
-| globe.im | resell    | —         | —             | high           | low    | 5      | —         |
+| rich.im  | resell    | —         | —             | high           | low    | 4      | —         |
+| blvd.im  | available | $4.18     | $6.73         | high           | low    | 4      | spaceship |
+| books.im | resell    | —         | —             | high           | medium | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,748 live domains                        |
+| 1,000-row public sample | 25,360 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 45 high-demand names under $2,500          |
+| Basic exported fields   | 49 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IM One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IM One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
